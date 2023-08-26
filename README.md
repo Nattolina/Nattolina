@@ -1,6 +1,6 @@
 ### Всем доброго дня 👋, меня зовут Наталья!
 
-Каждый день *сегодня* я осваиваю новые для себя горизонты. 
+Я занимаюсь анализом данных, строю визуализации и создаю дашборды. 
 
 **Мне помогают в этом:**
 
@@ -8,8 +8,9 @@
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)\
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)\
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)\
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-
+![PowerBI](https://img.shields.io/badge/Power_BI-f7df08.svg?style=for-the-badge&logo=power-bi&logoColor=white)\
+![Tableau](https://img.shields.io/badge/Tableau-eda859.svg?style=for-the-badge&logo=tableau&logoColor=blue)\
+![DataLens](https://img.shields.io/badge/datalens-2099df.svg?style=for-the-badge&logo=datalens&logoColor=black)
 
 <!--
 **Nattolina/Nattolina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
